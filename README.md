@@ -1,4 +1,4 @@
-Catcoin integration/staging tree
+OrangeCat integration/staging tree
 ================================
 
 http://www.catcoins.org
@@ -8,10 +8,10 @@ Copyright (c) 2011-2013 Litecoin Developers
 Copyright (c) 2013-2014 Catcoin Developers
 See the file CREDITS for further info on the cats responsible for this
 
-What is Catcoin?
+What is OrangeCat?
 ----------------
 
-Catcoin is a version of the Litecoin cryptographic currency, using scrypt
+OrangeCat is the forked a version of the Catcoin cryptographic currency, using scrypt
 as a proof-of-work algorithm, and using substantially similiar blockchain
 parameters to Bitcoin:
  - 50 coins per block
